@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjh51333&theme=onedark&show_iocns=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **wjh51333/wjh51333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
