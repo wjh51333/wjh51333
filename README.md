@@ -7,17 +7,12 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjh51333)](https://solved.ac/wjh51333)
 
-```
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
-```
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wjh51333)](https://solved.ac/wjh51333)
 
 
 
-### 
+
 
 **GitHub Status**
 
