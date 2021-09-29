@@ -1,9 +1,6 @@
-<h1 align = "center"> Hi there👋, I'm JeeHyun Woo </h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Jeehyun%20Woo&fontSize=50&animation=twinkling&fontAlignY=40" />
 
-<br> <br>
-
-
-
+<p align = "center"> Hi there👋, I'm JeeHyun Woo </p>
 
 
 ------
@@ -16,7 +13,7 @@
             <img align="center" width=360 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wannabe" alt="Solved.ac프로필" />
         </a>
         <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-          <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=wjh51333&show_icons=true&theme=onedark" />
+          <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=wjh51333&show_icons=true&theme=onedark&hide_border=true" />
         </a>
     </div>
  </p>
