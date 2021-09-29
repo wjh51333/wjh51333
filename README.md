@@ -1,22 +1,35 @@
-### Hi there 👋
+<h1 align = "center"> Hi there👋, I'm JeeHyun Woo </h1>
 
-
-
-**Algorithm**
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjh51333)](https://solved.ac/wjh51333)
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wjh51333)](https://solved.ac/wjh51333)
+<br> <br>
 
 
 
 
 
-**GitHub Status**
+------
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjh51333&theme=onedark&show_iocns=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+ <p align=center>
+ 	<div align="center">
+        <a href="https://solved.ac/wannabe" title="Go to Source">
+            <img align="center" width=360 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wannabe" alt="Solved.ac프로필" />
+        </a>
+        <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+          <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=wjh51333&show_icons=true&theme=onedark" />
+        </a>
+    </div>
+ </p>
+<br><br>
+
+------
+
+
+
+<h3 align="center"> 📫 Contact Me 📫 </h3>
+<p align="center">
+  <a href="mailto:wjh51333@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="30"/></a>
+</p>
 
 
 
