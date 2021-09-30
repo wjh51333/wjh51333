@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-	🛠 Tech Stack 🛠
+	<h2>🛠 Tech Stack 🛠</h2>
 	<br><br>
 	Techs that I've used at least once
 	<br><br>
@@ -38,10 +38,11 @@
 	<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 	<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
 </div>
+
 <br><br>
 
 <div align="center">
-	🍒 Me 🍒
+	<h2>🍒 Me 🍒</h2>
 	<br><br>
         <a href="https://woojeenow.tistory.com/">
             <img src="https://img.shields.io/badge/-Tech%20Blog-92a8d1?logo=Micro.blog&logoColor=white&link=https://woojeenow.tistory.com">
