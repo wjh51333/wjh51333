@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-	<h2>🛠 Tech Stack 🛠</h2>
+	<h3>🛠 Tech Stack 🛠</h3>
 	<br><br>
 	Techs that I've used at least once
 	<br><br>
@@ -42,7 +42,7 @@
 <br><br>
 
 <div align="center">
-	<h2>🍒 Me 🍒</h2>
+	<h3>🍒 Me 🍒</h3>
 	<br><br>
         <a href="https://woojeenow.tistory.com/">
             <img src="https://img.shields.io/badge/-Tech%20Blog-92a8d1?logo=Micro.blog&logoColor=white&link=https://woojeenow.tistory.com">
