@@ -1,7 +1,10 @@
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Jeehyun%20Woo&fontSize=50&animation=twinkling&fontAlignY=40" />
+</div>
 
 <p align = "center"> Hi there👋, I'm JeeHyun Woo </p>
 <br>
+
 <div align="center">
 	🛠 Tech Stack 🛠
 	<br><br>
