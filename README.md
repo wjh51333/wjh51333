@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-    <p>🍀 Techs I'm interested in 🍀</p>
+    <h3>🍀 Techs I'm interested in 🍀</h3>
     <br>
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white">
