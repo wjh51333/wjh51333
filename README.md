@@ -58,11 +58,14 @@
 	<h3>🍒 Me 🍒</h3>
 	<br>
         <a href="https://woojeenow.tistory.com/">
-            <img src="https://img.shields.io/badge/-Tech%20Blog-92a8d1?logo=Micro.blog&logoColor=white&link=https://woojeenow.tistory.com">
+            <img src="https://img.shields.io/badge/-Tech%20Blog-b696ff?logo=Micro.blog&logoColor=white&link=https://woojeenow.tistory.com">
         </a>
         <a href="mailto:wjh51333@gmail.com" target="_blank">
             <img src="https://img.shields.io/badge/-Gmail-F73A6D?logo=gmail&logoColor=white&link=mailto:wjh51333@gmail.com"/>
         </a>
+    	<a href="https://woojeenow.notion.site/79e720b4c0004c6fbc803d87e978068a" target="_blank">
+            <img src="https://img.shields.io/badge/-Portfolio-92a8d1?logo=notion&logoColor=white&link=https://woojeenow.notion.site/79e720b4c0004c6fbc803d87e978068a">
+    	</a>
 	<br><br>
      <p align=center>
         <div align="center">
@@ -81,6 +84,7 @@
         </a>
 	</p>
  </div>
+
 
 
 
