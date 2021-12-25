@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Kotlin-3843A9?style=for-the-badge&logoColor=white&logo=kotlin">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
     <br><br><br><br>
-	<h3>🛠 Tech Stack 🛠</h3>
+	<h3>🛠 Tech Stack 🛠 </h3>
     <details markdown="1">
         <summary>
             <strong>Techs that I've used at least once</strong>
