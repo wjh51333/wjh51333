@@ -59,7 +59,7 @@
 <br><br>
 
 <div align="center">
-	<h3>🍒 Me 🍒</h3>
+	<h3> 🍒 Me 🍒 </h3>
 	<br>
         <a href="https://woojeenow.tistory.com/">
             <img src="https://img.shields.io/badge/-Tech%20Blog-b696ff?logo=Micro.blog&logoColor=white&link=https://woojeenow.tistory.com">
